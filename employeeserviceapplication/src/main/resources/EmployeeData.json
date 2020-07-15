@@ -1,0 +1,85 @@
+[{
+		"userId": 3,
+		"name": "Mona",
+		"phoneNumber": "123433563",
+		"description": "Mona belongs to Accounts departmnet",
+		"skills": [{
+			"name": "79377",
+			"description": "IT",
+			"level": "6"
+		}]
+	},
+	{
+		"userId": 4,
+		"name": "Adira",
+		"phoneNumber": "123433563",
+		"description": "Adira belongs to Marketing departmnet",
+		"department": "Marketing",
+		"skills": [{
+			"name": "79377",
+			"description": "IT",
+			"level": "6"
+		}]
+	},
+	{
+		"userId": 5,
+		"name": "Andy",
+		"phoneNumber": "123433563",
+		"description": "Andy belongs to Marketing departmnet",
+		"department": "Marketing",
+		"skills": [{
+			"name": "79377",
+			"description": "IT",
+			"level": "6"
+		}]
+	},
+	{
+		"userId": 6,
+		"name": "Adi",
+		"phoneNumber": "123433563",
+		"description": "Adi belongs to Marketing departmnet",
+		"department": "Marketing",
+		"skills": [{
+			"name": "79377",
+			"description": "IT",
+			"level": "6"
+		}]
+	},
+	{
+		"userId": 7,
+		"name": "Aditi",
+		"phoneNumber": "123433563",
+		"description": "Aditi belongs to Marketing departmnet",
+		"department": "Marketing",
+		"skills": [{
+			"name": "79377",
+			"description": "IT",
+			"level": "6"
+		}]
+	},
+	{
+		"userId": 8,
+		"name": "Richie",
+		"phoneNumber": "123459946",
+		"description": "Richie belongs to IT departmnet",
+		"department": "IT",
+		"skills": [{
+			"name": "79377",
+			"description": "IT",
+			"level": "6"
+		}]
+	},
+	{
+		"userId": 9,
+		"name": "Andreak",
+		"phoneNumber": "123456000",
+		"description": "Andreak belongs to finance departmnet",
+		"department": "Finance",
+		"skills": [{
+			"name": "79377",
+			"description": "IT",
+			"level": "6"
+		}]
+
+	}
+]
